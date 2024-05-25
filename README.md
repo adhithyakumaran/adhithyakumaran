@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adhithya</h1>
+<br/>
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<br/>
 <h3 align="center">🧑‍💻Code, ☕Coffee, 🔁Repeat.</h3>
 
 - 🔭 I’m currently working on **byond.**
@@ -23,7 +26,7 @@
 <br/>
 <h3 align="left">if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/adhithya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/adhithya" /></a></p><br><br>
-
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhithyakumaran&show_icons=true&locale=en&layout=compact" alt="adhithyakumaran" /></p>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhithyakumaran&label=Profile%20views&color=0e75b6&style=flat" alt="adhithyakumaran" /> </p>
